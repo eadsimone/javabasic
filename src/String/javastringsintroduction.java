@@ -1,6 +1,4 @@
-package String;
-
-/**
+package String; /**
  * Created by edesimone on 03/07/16.
  * "A string is traditionally a sequence of characters, either as a literal constant or as some kind of variable." — Wikipedia: String (computer science)
  This exercise is to test your understanding of Java Strings. A sample String declaration:
