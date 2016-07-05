@@ -1,4 +1,4 @@
-package algorithm.shortestsubstringonlyonce; /**
+package algorithm; /**
  * Created by edesimone on 04/07/16.
 
  * Given a collection of intervals, merge all overlapping intervals.
