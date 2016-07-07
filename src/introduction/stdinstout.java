@@ -1,4 +1,4 @@
-/**
+package introduction; /**
  * Created by edesimone on 04/06/16.
  * Most of the problems on HackerRank require reading input from stdin (standard input) and writing output to stdout (standard output).
 
@@ -50,23 +50,13 @@ import java.util.Scanner;
 public class stdinstout {
 
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int x=sc.nextInt();
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        // Complete this line
+        // Complete this line
 
-        Double y=sc.nextDouble();
-
-        String s = new String();
-        while(sc.hasNext()){
-            s += sc.next()+" ";
-        }
-
-        while ((line = reader.readLine ()) != null) {
-            System.out.println ("Stdout: " + line);
-        }
-
-
-        System.out.println("String: "+s);
-        System.out.println("Double: "+y);
-        System.out.println("Int: "+x);
+        System.out.println(a);
+        // Complete this line
+        // Complete this line
     }
 }

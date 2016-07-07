@@ -1,4 +1,4 @@
-/**
+package introduction; /**
  * Created by edesimone on 03/06/16.
  *
  * Using "if-else" you can perform decision making in Java. See the flowchart below (taken from wikipedia):
