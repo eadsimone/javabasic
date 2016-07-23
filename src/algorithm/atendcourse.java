@@ -9,9 +9,13 @@ import java.io.*;
 public class atendcourse {
 
 
-    static public List<String> getDirectFriendsForUser(String user)
+    static public List<String> getDirectFriendsForUser(String user) {
+        return null;
+    }
 
-    static public List<String> getAttendedCoursesForUser(String user)
+    static public List<String> getAttendedCoursesForUser(String user) {
+        return null;
+    }
  /* Please complete the method below */
 
 
