@@ -37,10 +37,16 @@ public class manhataandistance {
 
     public static void main(String[] args) {
 
-        int lenght = 5;
-        int widht = 7;
-        int[] xcoor = {2,4};
-        int[] ycoor = {3,7};
+        int lenght = 3;
+        int widht = 5;
+        int[] xcoor = {1};
+        int[] ycoor = {1};
+
+//        int lenght = 5;
+//        int widht = 7;
+//        int[] xcoor = {2,4};
+//        int[] ycoor = {3,7};
+
         int[][] res = getLockerDistanceGrid(lenght,widht,xcoor,ycoor);
     }
 }
